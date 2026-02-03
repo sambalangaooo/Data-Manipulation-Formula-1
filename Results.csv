@@ -1,0 +1,440 @@
+DriverNumber,BroadcastName,Abbreviation,TeamName,TeamColor,FirstName,LastName,FullName,Position,GridPosition,Q1,Q2,Q3,Time,Status,Points,RoundNumber,Race Type,EventName
+1,M VERSTAPPEN,VER,Red Bull Racing,3671C6,Max,Verstappen,Max Verstappen,1,1,,,,0 days 01:33:56.736000,Finished,25,1,Sunday Race,Bahrain Grand Prix
+11,S PEREZ,PER,Red Bull Racing,3671C6,Sergio,Perez,Sergio Perez,2,2,,,,0 days 01:34:08.723000,Finished,18,1,Sunday Race,Bahrain Grand Prix
+14,F ALONSO,ALO,Aston Martin,358C75,Fernando,Alonso,Fernando Alonso,3,5,,,,0 days 01:34:35.373000,Finished,15,1,Sunday Race,Bahrain Grand Prix
+55,C SAINZ,SAI,Ferrari,F91536,Carlos,Sainz,Carlos Sainz,4,4,,,,0 days 01:34:44.788000,Finished,12,1,Sunday Race,Bahrain Grand Prix
+44,L HAMILTON,HAM,Mercedes,6CD3BF,Lewis,Hamilton,Lewis Hamilton,5,7,,,,0 days 01:34:47.713000,Finished,10,1,Sunday Race,Bahrain Grand Prix
+18,L STROLL,STR,Aston Martin,358C75,Lance,Stroll,Lance Stroll,6,8,,,,0 days 01:34:51.238000,Finished,8,1,Sunday Race,Bahrain Grand Prix
+63,G RUSSELL,RUS,Mercedes,6CD3BF,George,Russell,George Russell,7,6,,,,0 days 01:34:52.609000,Finished,6,1,Sunday Race,Bahrain Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,C92D4B,Valtteri,Bottas,Valtteri Bottas,8,12,,,,0 days 01:35:09.383000,Finished,4,1,Sunday Race,Bahrain Grand Prix
+10,P GASLY,GAS,Alpine,2293D1,Pierre,Gasly,Pierre Gasly,9,20,,,,0 days 01:35:10.489000,Finished,2,1,Sunday Race,Bahrain Grand Prix
+23,A ALBON,ALB,Williams,37BEDD,Alexander,Albon,Alexander Albon,10,15,,,,0 days 01:35:26.510000,Finished,1,1,Sunday Race,Bahrain Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,5E8FAA,Yuki,Tsunoda,Yuki Tsunoda,11,14,,,,0 days 01:35:27.606000,Finished,0,1,Sunday Race,Bahrain Grand Prix
+2,L SARGEANT,SAR,Williams,37BEDD,Logan,Sargeant,Logan Sargeant,12,16,,,,,+1 Lap,0,1,Sunday Race,Bahrain Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,B6BABD,Kevin,Magnussen,Kevin Magnussen,13,17,,,,,+1 Lap,0,1,Sunday Race,Bahrain Grand Prix
+21,N DE VRIES,DEV,AlphaTauri,5E8FAA,Nyck,De Vries,Nyck De Vries,14,19,,,,,+1 Lap,0,1,Sunday Race,Bahrain Grand Prix
+27,N HULKENBERG,HUL,Haas F1 Team,B6BABD,Nico,Hulkenberg,Nico Hulkenberg,15,10,,,,,+1 Lap,0,1,Sunday Race,Bahrain Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,C92D4B,Guanyu,Zhou,Guanyu Zhou,16,13,,,,,+1 Lap,0,1,Sunday Race,Bahrain Grand Prix
+4,L NORRIS,NOR,McLaren,F58020,Lando,Norris,Lando Norris,17,11,,,,,+2 Laps,0,1,Sunday Race,Bahrain Grand Prix
+31,E OCON,OCO,Alpine,2293D1,Esteban,Ocon,Esteban Ocon,18,9,,,,,Mechanical,0,1,Sunday Race,Bahrain Grand Prix
+16,C LECLERC,LEC,Ferrari,F91536,Charles,Leclerc,Charles Leclerc,19,3,,,,,Engine,0,1,Sunday Race,Bahrain Grand Prix
+81,O PIASTRI,PIA,McLaren,F58020,Oscar,Piastri,Oscar Piastri,20,18,,,,,Electrical,0,1,Sunday Race,Bahrain Grand Prix
+11,S PEREZ,PER,Red Bull Racing,3671C6,Sergio,Perez,Sergio Perez,1,1,,,,0 days 01:21:14.894000,Finished,25,2,Sunday Race,Saudi Arabian Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,3671C6,Max,Verstappen,Max Verstappen,2,15,,,,0 days 01:21:20.249000,Finished,19,2,Sunday Race,Saudi Arabian Grand Prix
+14,F ALONSO,ALO,Aston Martin,358C75,Fernando,Alonso,Fernando Alonso,3,2,,,,0 days 01:21:35.622000,Finished,15,2,Sunday Race,Saudi Arabian Grand Prix
+63,G RUSSELL,RUS,Mercedes,6CD3BF,George,Russell,George Russell,4,3,,,,0 days 01:21:40.760000,Finished,12,2,Sunday Race,Saudi Arabian Grand Prix
+44,L HAMILTON,HAM,Mercedes,6CD3BF,Lewis,Hamilton,Lewis Hamilton,5,7,,,,0 days 01:21:45.959000,Finished,10,2,Sunday Race,Saudi Arabian Grand Prix
+55,C SAINZ,SAI,Ferrari,F91536,Carlos,Sainz,Carlos Sainz,6,4,,,,0 days 01:21:50.770000,Finished,8,2,Sunday Race,Saudi Arabian Grand Prix
+16,C LECLERC,LEC,Ferrari,F91536,Charles,Leclerc,Charles Leclerc,7,12,,,,0 days 01:21:58.056000,Finished,6,2,Sunday Race,Saudi Arabian Grand Prix
+31,E OCON,OCO,Alpine,2293D1,Esteban,Ocon,Esteban Ocon,8,6,,,,0 days 01:22:07.726000,Finished,4,2,Sunday Race,Saudi Arabian Grand Prix
+10,P GASLY,GAS,Alpine,2293D1,Pierre,Gasly,Pierre Gasly,9,9,,,,0 days 01:22:09.641000,Finished,2,2,Sunday Race,Saudi Arabian Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,B6BABD,Kevin,Magnussen,Kevin Magnussen,10,13,,,,0 days 01:22:19.720000,Finished,1,2,Sunday Race,Saudi Arabian Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,5E8FAA,Yuki,Tsunoda,Yuki Tsunoda,11,16,,,,0 days 01:22:22.388000,Finished,0,2,Sunday Race,Saudi Arabian Grand Prix
+27,N HULKENBERG,HUL,Haas F1 Team,B6BABD,Nico,Hulkenberg,Nico Hulkenberg,12,10,,,,0 days 01:22:25.482000,Finished,0,2,Sunday Race,Saudi Arabian Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,C92D4B,Guanyu,Zhou,Guanyu Zhou,13,11,,,,0 days 01:22:30.954000,Finished,0,2,Sunday Race,Saudi Arabian Grand Prix
+21,N DE VRIES,DEV,AlphaTauri,5E8FAA,Nyck,De Vries,Nyck De Vries,14,18,,,,0 days 01:22:32.372000,Finished,0,2,Sunday Race,Saudi Arabian Grand Prix
+81,O PIASTRI,PIA,McLaren,F58020,Oscar,Piastri,Oscar Piastri,15,8,,,,0 days 01:22:39.915000,Finished,0,2,Sunday Race,Saudi Arabian Grand Prix
+2,L SARGEANT,SAR,Williams,37BEDD,Logan,Sargeant,Logan Sargeant,16,20,,,,0 days 01:22:41.187000,Finished,0,2,Sunday Race,Saudi Arabian Grand Prix
+4,L NORRIS,NOR,McLaren,F58020,Lando,Norris,Lando Norris,17,19,,,,0 days 01:22:41.339000,Finished,0,2,Sunday Race,Saudi Arabian Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,C92D4B,Valtteri,Bottas,Valtteri Bottas,18,14,,,,,+1 Lap,0,2,Sunday Race,Saudi Arabian Grand Prix
+23,A ALBON,ALB,Williams,37BEDD,Alexander,Albon,Alexander Albon,19,17,,,,,Brakes,0,2,Sunday Race,Saudi Arabian Grand Prix
+18,L STROLL,STR,Aston Martin,358C75,Lance,Stroll,Lance Stroll,20,5,,,,,Engine,0,2,Sunday Race,Saudi Arabian Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,3671C6,Max,Verstappen,Max Verstappen,1,1,,,,0 days 02:32:38.371000,Finished,25,3,Sunday Race,Australian Grand Prix
+44,L HAMILTON,HAM,Mercedes,6CD3BF,Lewis,Hamilton,Lewis Hamilton,2,3,,,,0 days 02:32:38.550000,Finished,18,3,Sunday Race,Australian Grand Prix
+14,F ALONSO,ALO,Aston Martin,358C75,Fernando,Alonso,Fernando Alonso,3,4,,,,0 days 02:32:39.140000,Finished,15,3,Sunday Race,Australian Grand Prix
+18,L STROLL,STR,Aston Martin,358C75,Lance,Stroll,Lance Stroll,4,6,,,,0 days 02:32:41.453000,Finished,12,3,Sunday Race,Australian Grand Prix
+11,S PEREZ,PER,Red Bull Racing,3671C6,Sergio,Perez,Sergio Perez,5,0,,,,0 days 02:32:41.691000,Finished,11,3,Sunday Race,Australian Grand Prix
+4,L NORRIS,NOR,McLaren,F58020,Lando,Norris,Lando Norris,6,13,,,,0 days 02:32:42.072000,Finished,8,3,Sunday Race,Australian Grand Prix
+27,N HULKENBERG,HUL,Haas F1 Team,B6BABD,Nico,Hulkenberg,Nico Hulkenberg,7,10,,,,0 days 02:32:43.310000,Finished,6,3,Sunday Race,Australian Grand Prix
+81,O PIASTRI,PIA,McLaren,F58020,Oscar,Piastri,Oscar Piastri,8,16,,,,0 days 02:32:43.753000,Finished,4,3,Sunday Race,Australian Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,C92D4B,Guanyu,Zhou,Guanyu Zhou,9,17,,,,0 days 02:32:44.084000,Finished,2,3,Sunday Race,Australian Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,5E8FAA,Yuki,Tsunoda,Yuki Tsunoda,10,12,,,,0 days 02:32:44.423000,Finished,1,3,Sunday Race,Australian Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,C92D4B,Valtteri,Bottas,Valtteri Bottas,11,0,,,,0 days 02:32:44.884000,Finished,0,3,Sunday Race,Australian Grand Prix
+55,C SAINZ,SAI,Ferrari,F91536,Carlos,Sainz,Carlos Sainz,12,5,,,,0 days 02:32:44.965000,Finished,0,3,Sunday Race,Australian Grand Prix
+10,P GASLY,GAS,Alpine,2293D1,Pierre,Gasly,Pierre Gasly,13,9,,,,,Collision,0,3,Sunday Race,Australian Grand Prix
+31,E OCON,OCO,Alpine,2293D1,Esteban,Ocon,Esteban Ocon,14,11,,,,,Collision,0,3,Sunday Race,Australian Grand Prix
+21,N DE VRIES,DEV,AlphaTauri,5E8FAA,Nyck,De Vries,Nyck De Vries,15,15,,,,,Collision,0,3,Sunday Race,Australian Grand Prix
+2,L SARGEANT,SAR,Williams,37BEDD,Logan,Sargeant,Logan Sargeant,16,18,,,,,Collision,0,3,Sunday Race,Australian Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,B6BABD,Kevin,Magnussen,Kevin Magnussen,17,14,,,,,Accident,0,3,Sunday Race,Australian Grand Prix
+63,G RUSSELL,RUS,Mercedes,6CD3BF,George,Russell,George Russell,18,2,,,,,Engine,0,3,Sunday Race,Australian Grand Prix
+23,A ALBON,ALB,Williams,37BEDD,Alexander,Albon,Alexander Albon,19,8,,,,,Accident,0,3,Sunday Race,Australian Grand Prix
+16,C LECLERC,LEC,Ferrari,F91536,Charles,Leclerc,Charles Leclerc,20,7,,,,,Collision,0,3,Sunday Race,Australian Grand Prix
+11,S PEREZ,PER,Red Bull Racing,3671C6,Sergio,Perez,Sergio Perez,1,3,,,,0 days 01:32:42.436000,Finished,25,4,Sunday Race,Azerbaijan Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,3671C6,Max,Verstappen,Max Verstappen,2,2,,,,0 days 01:32:44.573000,Finished,18,4,Sunday Race,Azerbaijan Grand Prix
+16,C LECLERC,LEC,Ferrari,F91536,Charles,Leclerc,Charles Leclerc,3,1,,,,0 days 01:33:03.653000,Finished,15,4,Sunday Race,Azerbaijan Grand Prix
+14,F ALONSO,ALO,Aston Martin,358C75,Fernando,Alonso,Fernando Alonso,4,6,,,,0 days 01:33:04.460000,Finished,12,4,Sunday Race,Azerbaijan Grand Prix
+55,C SAINZ,SAI,Ferrari,F91536,Carlos,Sainz,Carlos Sainz,5,4,,,,0 days 01:33:27.927000,Finished,10,4,Sunday Race,Azerbaijan Grand Prix
+44,L HAMILTON,HAM,Mercedes,6CD3BF,Lewis,Hamilton,Lewis Hamilton,6,5,,,,0 days 01:33:28.581000,Finished,8,4,Sunday Race,Azerbaijan Grand Prix
+18,L STROLL,STR,Aston Martin,358C75,Lance,Stroll,Lance Stroll,7,9,,,,0 days 01:33:34.053000,Finished,6,4,Sunday Race,Azerbaijan Grand Prix
+63,G RUSSELL,RUS,Mercedes,6CD3BF,George,Russell,George Russell,8,11,,,,0 days 01:33:56.676000,Finished,5,4,Sunday Race,Azerbaijan Grand Prix
+4,L NORRIS,NOR,McLaren,F58020,Lando,Norris,Lando Norris,9,7,,,,0 days 01:34:02.812000,Finished,2,4,Sunday Race,Azerbaijan Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,5E8FAA,Yuki,Tsunoda,Yuki Tsunoda,10,8,,,,0 days 01:34:06.298000,Finished,1,4,Sunday Race,Azerbaijan Grand Prix
+81,O PIASTRI,PIA,McLaren,F58020,Oscar,Piastri,Oscar Piastri,11,10,,,,0 days 01:34:08.937000,Finished,0,4,Sunday Race,Azerbaijan Grand Prix
+23,A ALBON,ALB,Williams,37BEDD,Alexander,Albon,Alexander Albon,12,12,,,,0 days 01:34:11.059000,Finished,0,4,Sunday Race,Azerbaijan Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,B6BABD,Kevin,Magnussen,Kevin Magnussen,13,16,,,,0 days 01:34:12.165000,Finished,0,4,Sunday Race,Azerbaijan Grand Prix
+10,P GASLY,GAS,Alpine,2293D1,Pierre,Gasly,Pierre Gasly,14,17,,,,0 days 01:34:13.768000,Finished,0,4,Sunday Race,Azerbaijan Grand Prix
+31,E OCON,OCO,Alpine,2293D1,Esteban,Ocon,Esteban Ocon,15,0,,,,0 days 01:34:20.230000,Finished,0,4,Sunday Race,Azerbaijan Grand Prix
+2,L SARGEANT,SAR,Williams,37BEDD,Logan,Sargeant,Logan Sargeant,16,14,,,,0 days 01:34:23.379000,Finished,0,4,Sunday Race,Azerbaijan Grand Prix
+27,N HULKENBERG,HUL,Haas F1 Team,B6BABD,Nico,Hulkenberg,Nico Hulkenberg,17,0,,,,,+1 Lap,0,4,Sunday Race,Azerbaijan Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,C92D4B,Valtteri,Bottas,Valtteri Bottas,18,13,,,,,+1 Lap,0,4,Sunday Race,Azerbaijan Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,C92D4B,Guanyu,Zhou,Guanyu Zhou,19,15,,,,,Overheating,0,4,Sunday Race,Azerbaijan Grand Prix
+21,N DE VRIES,DEV,AlphaTauri,5E8FAA,Nyck,De Vries,Nyck De Vries,20,18,,,,,Accident,0,4,Sunday Race,Azerbaijan Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,3671C6,Max,Verstappen,Max Verstappen,1,9,,,,0 days 01:27:38.241000,Finished,26,5,Sunday Race,Miami Grand Prix
+11,S PEREZ,PER,Red Bull Racing,3671C6,Sergio,Perez,Sergio Perez,2,1,,,,0 days 01:27:43.625000,Finished,18,5,Sunday Race,Miami Grand Prix
+14,F ALONSO,ALO,Aston Martin,358C75,Fernando,Alonso,Fernando Alonso,3,2,,,,0 days 01:28:04.546000,Finished,15,5,Sunday Race,Miami Grand Prix
+63,G RUSSELL,RUS,Mercedes,6CD3BF,George,Russell,George Russell,4,6,,,,0 days 01:28:11.470000,Finished,12,5,Sunday Race,Miami Grand Prix
+55,C SAINZ,SAI,Ferrari,F91536,Carlos,Sainz,Carlos Sainz,5,3,,,,0 days 01:28:20.752000,Finished,10,5,Sunday Race,Miami Grand Prix
+44,L HAMILTON,HAM,Mercedes,6CD3BF,Lewis,Hamilton,Lewis Hamilton,6,13,,,,0 days 01:28:29.490000,Finished,8,5,Sunday Race,Miami Grand Prix
+16,C LECLERC,LEC,Ferrari,F91536,Charles,Leclerc,Charles Leclerc,7,7,,,,0 days 01:28:31.229000,Finished,6,5,Sunday Race,Miami Grand Prix
+10,P GASLY,GAS,Alpine,2293D1,Pierre,Gasly,Pierre Gasly,8,5,,,,0 days 01:28:33.911000,Finished,4,5,Sunday Race,Miami Grand Prix
+31,E OCON,OCO,Alpine,2293D1,Esteban,Ocon,Esteban Ocon,9,8,,,,0 days 01:28:36.364000,Finished,2,5,Sunday Race,Miami Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,B6BABD,Kevin,Magnussen,Kevin Magnussen,10,4,,,,0 days 01:28:41.186000,Finished,1,5,Sunday Race,Miami Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,5E8FAA,Yuki,Tsunoda,Yuki Tsunoda,11,17,,,,0 days 01:28:42.550000,Finished,0,5,Sunday Race,Miami Grand Prix
+18,L STROLL,STR,Aston Martin,358C75,Lance,Stroll,Lance Stroll,12,18,,,,0 days 01:28:42.995000,Finished,0,5,Sunday Race,Miami Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,C92D4B,Valtteri,Bottas,Valtteri Bottas,13,10,,,,0 days 01:28:49.878000,Finished,0,5,Sunday Race,Miami Grand Prix
+23,A ALBON,ALB,Williams,37BEDD,Alexander,Albon,Alexander Albon,14,11,,,,0 days 01:28:51.102000,Finished,0,5,Sunday Race,Miami Grand Prix
+27,N HULKENBERG,HUL,Haas F1 Team,B6BABD,Nico,Hulkenberg,Nico Hulkenberg,15,12,,,,0 days 01:28:53.191000,Finished,0,5,Sunday Race,Miami Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,C92D4B,Guanyu,Zhou,Guanyu Zhou,16,14,,,,0 days 01:28:56.681000,Finished,0,5,Sunday Race,Miami Grand Prix
+4,L NORRIS,NOR,McLaren,F58020,Lando,Norris,Lando Norris,17,16,,,,0 days 01:29:05.958000,Finished,0,5,Sunday Race,Miami Grand Prix
+21,N DE VRIES,DEV,AlphaTauri,5E8FAA,Nyck,De Vries,Nyck De Vries,18,15,,,,0 days 01:29:07.190000,Finished,0,5,Sunday Race,Miami Grand Prix
+81,O PIASTRI,PIA,McLaren,F58020,Oscar,Piastri,Oscar Piastri,19,19,,,,,+1 Lap,0,5,Sunday Race,Miami Grand Prix
+2,L SARGEANT,SAR,Williams,37BEDD,Logan,Sargeant,Logan Sargeant,20,20,,,,,+1 Lap,0,5,Sunday Race,Miami Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,3671C6,Max,Verstappen,Max Verstappen,1,1,,,,0 days 01:48:51.980000,Finished,25,6,Sunday Race,Monaco Grand Prix
+14,F ALONSO,ALO,Aston Martin,358C75,Fernando,Alonso,Fernando Alonso,2,2,,,,0 days 01:49:19.901000,Finished,18,6,Sunday Race,Monaco Grand Prix
+31,E OCON,OCO,Alpine,2293D1,Esteban,Ocon,Esteban Ocon,3,3,,,,0 days 01:49:28.970000,Finished,15,6,Sunday Race,Monaco Grand Prix
+44,L HAMILTON,HAM,Mercedes,6CD3BF,Lewis,Hamilton,Lewis Hamilton,4,5,,,,0 days 01:49:31.042000,Finished,13,6,Sunday Race,Monaco Grand Prix
+63,G RUSSELL,RUS,Mercedes,6CD3BF,George,Russell,George Russell,5,8,,,,0 days 01:49:48.264000,Finished,10,6,Sunday Race,Monaco Grand Prix
+16,C LECLERC,LEC,Ferrari,F91536,Charles,Leclerc,Charles Leclerc,6,6,,,,0 days 01:49:53.870000,Finished,8,6,Sunday Race,Monaco Grand Prix
+10,P GASLY,GAS,Alpine,2293D1,Pierre,Gasly,Pierre Gasly,7,7,,,,0 days 01:49:54.342000,Finished,6,6,Sunday Race,Monaco Grand Prix
+55,C SAINZ,SAI,Ferrari,F91536,Carlos,Sainz,Carlos Sainz,8,4,,,,0 days 01:49:55.371000,Finished,4,6,Sunday Race,Monaco Grand Prix
+4,L NORRIS,NOR,McLaren,F58020,Lando,Norris,Lando Norris,9,10,,,,,+1 Lap,2,6,Sunday Race,Monaco Grand Prix
+81,O PIASTRI,PIA,McLaren,F58020,Oscar,Piastri,Oscar Piastri,10,11,,,,,+1 Lap,1,6,Sunday Race,Monaco Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,C92D4B,Valtteri,Bottas,Valtteri Bottas,11,15,,,,,+1 Lap,0,6,Sunday Race,Monaco Grand Prix
+21,N DE VRIES,DEV,AlphaTauri,5E8FAA,Nyck,De Vries,Nyck De Vries,12,12,,,,,+1 Lap,0,6,Sunday Race,Monaco Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,C92D4B,Guanyu,Zhou,Guanyu Zhou,13,19,,,,,+1 Lap,0,6,Sunday Race,Monaco Grand Prix
+23,A ALBON,ALB,Williams,37BEDD,Alexander,Albon,Alexander Albon,14,13,,,,,+1 Lap,0,6,Sunday Race,Monaco Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,5E8FAA,Yuki,Tsunoda,Yuki Tsunoda,15,9,,,,,+2 Laps,0,6,Sunday Race,Monaco Grand Prix
+11,S PEREZ,PER,Red Bull Racing,3671C6,Sergio,Perez,Sergio Perez,16,20,,,,,+2 Laps,0,6,Sunday Race,Monaco Grand Prix
+27,N HULKENBERG,HUL,Haas F1 Team,B6BABD,Nico,Hulkenberg,Nico Hulkenberg,17,18,,,,,+2 Laps,0,6,Sunday Race,Monaco Grand Prix
+2,L SARGEANT,SAR,Williams,37BEDD,Logan,Sargeant,Logan Sargeant,18,16,,,,,+2 Laps,0,6,Sunday Race,Monaco Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,B6BABD,Kevin,Magnussen,Kevin Magnussen,19,17,,,,,Collision damage,0,6,Sunday Race,Monaco Grand Prix
+18,L STROLL,STR,Aston Martin,358C75,Lance,Stroll,Lance Stroll,20,14,,,,,Accident,0,6,Sunday Race,Monaco Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,3671C6,Max,Verstappen,Max Verstappen,1,1,,,,0 days 01:27:57.940000,Finished,26,7,Sunday Race,Spanish Grand Prix
+44,L HAMILTON,HAM,Mercedes,6CD3BF,Lewis,Hamilton,Lewis Hamilton,2,4,,,,0 days 01:28:22.030000,Finished,18,7,Sunday Race,Spanish Grand Prix
+63,G RUSSELL,RUS,Mercedes,6CD3BF,George,Russell,George Russell,3,12,,,,0 days 01:28:30.329000,Finished,15,7,Sunday Race,Spanish Grand Prix
+11,S PEREZ,PER,Red Bull Racing,3671C6,Sergio,Perez,Sergio Perez,4,11,,,,0 days 01:28:33.752000,Finished,12,7,Sunday Race,Spanish Grand Prix
+55,C SAINZ,SAI,Ferrari,F91536,Carlos,Sainz,Carlos Sainz,5,2,,,,0 days 01:28:43.638000,Finished,10,7,Sunday Race,Spanish Grand Prix
+18,L STROLL,STR,Aston Martin,358C75,Lance,Stroll,Lance Stroll,6,5,,,,0 days 01:29:01.260000,Finished,8,7,Sunday Race,Spanish Grand Prix
+14,F ALONSO,ALO,Aston Martin,358C75,Fernando,Alonso,Fernando Alonso,7,8,,,,0 days 01:29:02.067000,Finished,6,7,Sunday Race,Spanish Grand Prix
+31,E OCON,OCO,Alpine,2293D1,Esteban,Ocon,Esteban Ocon,8,6,,,,0 days 01:29:07.182000,Finished,4,7,Sunday Race,Spanish Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,C92D4B,Guanyu,Zhou,Guanyu Zhou,9,13,,,,0 days 01:29:09.818000,Finished,2,7,Sunday Race,Spanish Grand Prix
+10,P GASLY,GAS,Alpine,2293D1,Pierre,Gasly,Pierre Gasly,10,10,,,,0 days 01:29:11.470000,Finished,1,7,Sunday Race,Spanish Grand Prix
+16,C LECLERC,LEC,Ferrari,F91536,Charles,Leclerc,Charles Leclerc,11,19,,,,0 days 01:29:12.359000,Finished,0,7,Sunday Race,Spanish Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,5E8FAA,Yuki,Tsunoda,Yuki Tsunoda,12,15,,,,0 days 01:29:13.356000,Finished,0,7,Sunday Race,Spanish Grand Prix
+81,O PIASTRI,PIA,McLaren,F58020,Oscar,Piastri,Oscar Piastri,13,9,,,,,+1 Lap,0,7,Sunday Race,Spanish Grand Prix
+21,N DE VRIES,DEV,AlphaTauri,5E8FAA,Nyck,De Vries,Nyck De Vries,14,14,,,,,+1 Lap,0,7,Sunday Race,Spanish Grand Prix
+27,N HULKENBERG,HUL,Haas F1 Team,B6BABD,Nico,Hulkenberg,Nico Hulkenberg,15,7,,,,,+1 Lap,0,7,Sunday Race,Spanish Grand Prix
+23,A ALBON,ALB,Williams,37BEDD,Alexander,Albon,Alexander Albon,16,18,,,,,+1 Lap,0,7,Sunday Race,Spanish Grand Prix
+4,L NORRIS,NOR,McLaren,F58020,Lando,Norris,Lando Norris,17,3,,,,,+1 Lap,0,7,Sunday Race,Spanish Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,B6BABD,Kevin,Magnussen,Kevin Magnussen,18,17,,,,,+1 Lap,0,7,Sunday Race,Spanish Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,C92D4B,Valtteri,Bottas,Valtteri Bottas,19,16,,,,,+1 Lap,0,7,Sunday Race,Spanish Grand Prix
+2,L SARGEANT,SAR,Williams,37BEDD,Logan,Sargeant,Logan Sargeant,20,20,,,,,+1 Lap,0,7,Sunday Race,Spanish Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,3671C6,Max,Verstappen,Max Verstappen,1,1,,,,0 days 01:33:58.348000,Finished,25,8,Sunday Race,Canadian Grand Prix
+14,F ALONSO,ALO,Aston Martin,358C75,Fernando,Alonso,Fernando Alonso,2,2,,,,0 days 01:34:07.918000,Finished,18,8,Sunday Race,Canadian Grand Prix
+44,L HAMILTON,HAM,Mercedes,6CD3BF,Lewis,Hamilton,Lewis Hamilton,3,3,,,,0 days 01:34:02.946000,Finished,15,8,Sunday Race,Canadian Grand Prix
+16,C LECLERC,LEC,Ferrari,F91536,Charles,Leclerc,Charles Leclerc,4,10,,,,0 days 01:34:16.996000,Finished,12,8,Sunday Race,Canadian Grand Prix
+55,C SAINZ,SAI,Ferrari,F91536,Carlos,Sainz,Carlos Sainz,5,11,,,,0 days 01:34:19.888000,Finished,10,8,Sunday Race,Canadian Grand Prix
+11,S PEREZ,PER,Red Bull Racing,3671C6,Sergio,Perez,Sergio Perez,6,12,,,,0 days 01:34:49.376000,Finished,9,8,Sunday Race,Canadian Grand Prix
+23,A ALBON,ALB,Williams,37BEDD,Alexander,Albon,Alexander Albon,7,9,,,,0 days 01:34:59.161000,Finished,6,8,Sunday Race,Canadian Grand Prix
+31,E OCON,OCO,Alpine,2293D1,Esteban,Ocon,Esteban Ocon,8,6,,,,0 days 01:35:00.040000,Finished,4,8,Sunday Race,Canadian Grand Prix
+18,L STROLL,STR,Aston Martin,358C75,Lance,Stroll,Lance Stroll,9,16,,,,0 days 01:35:02.750000,Finished,2,8,Sunday Race,Canadian Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,C92D4B,Valtteri,Bottas,Valtteri Bottas,10,14,,,,0 days 01:35:02.780000,Finished,1,8,Sunday Race,Canadian Grand Prix
+81,O PIASTRI,PIA,McLaren,F58020,Oscar,Piastri,Oscar Piastri,11,8,,,,0 days 01:35:03.449000,Finished,0,8,Sunday Race,Canadian Grand Prix
+10,P GASLY,GAS,Alpine,2293D1,Pierre,Gasly,Pierre Gasly,12,15,,,,0 days 01:35:03.597000,Finished,0,8,Sunday Race,Canadian Grand Prix
+4,L NORRIS,NOR,McLaren,F58020,Lando,Norris,Lando Norris,13,7,,,,0 days 01:35:06.711000,Finished,0,8,Sunday Race,Canadian Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,5E8FAA,Yuki,Tsunoda,Yuki Tsunoda,14,19,,,,0 days 01:35:11.771000,Finished,0,8,Sunday Race,Canadian Grand Prix
+27,N HULKENBERG,HUL,Haas F1 Team,B6BABD,Nico,Hulkenberg,Nico Hulkenberg,15,5,,,,,+1 Lap,0,8,Sunday Race,Canadian Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,C92D4B,Guanyu,Zhou,Guanyu Zhou,16,20,,,,,+1 Lap,0,8,Sunday Race,Canadian Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,B6BABD,Kevin,Magnussen,Kevin Magnussen,17,13,,,,,+1 Lap,0,8,Sunday Race,Canadian Grand Prix
+21,N DE VRIES,DEV,AlphaTauri,5E8FAA,Nyck,De Vries,Nyck De Vries,18,17,,,,,+1 Lap,0,8,Sunday Race,Canadian Grand Prix
+63,G RUSSELL,RUS,Mercedes,6CD3BF,George,Russell,George Russell,19,4,,,,,Brakes,0,8,Sunday Race,Canadian Grand Prix
+2,L SARGEANT,SAR,Williams,37BEDD,Logan,Sargeant,Logan Sargeant,20,18,,,,,Engine,0,8,Sunday Race,Canadian Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,3671C6,Max,Verstappen,Max Verstappen,1,1,,,,0 days 01:25:33.607000,Finished,26,9,Sunday Race,Austrian Grand Prix
+16,C LECLERC,LEC,Ferrari,F91536,Charles,Leclerc,Charles Leclerc,2,2,,,,0 days 01:25:38.762000,Finished,18,9,Sunday Race,Austrian Grand Prix
+11,S PEREZ,PER,Red Bull Racing,3671C6,Sergio,Perez,Sergio Perez,3,15,,,,0 days 01:25:50.795000,Finished,15,9,Sunday Race,Austrian Grand Prix
+4,L NORRIS,NOR,McLaren,F58020,Lando,Norris,Lando Norris,4,4,,,,0 days 01:25:59.934000,Finished,12,9,Sunday Race,Austrian Grand Prix
+14,F ALONSO,ALO,Aston Martin,358C75,Fernando,Alonso,Fernando Alonso,5,7,,,,0 days 01:26:03.924000,Finished,10,9,Sunday Race,Austrian Grand Prix
+55,C SAINZ,SAI,Ferrari,F91536,Carlos,Sainz,Carlos Sainz,6,3,,,,0 days 01:26:04.984000,Finished,8,9,Sunday Race,Austrian Grand Prix
+63,G RUSSELL,RUS,Mercedes,6CD3BF,George,Russell,George Russell,7,11,,,,0 days 01:26:22.010000,Finished,6,9,Sunday Race,Austrian Grand Prix
+44,L HAMILTON,HAM,Mercedes,6CD3BF,Lewis,Hamilton,Lewis Hamilton,8,5,,,,0 days 01:26:22.803000,Finished,4,9,Sunday Race,Austrian Grand Prix
+18,L STROLL,STR,Aston Martin,358C75,Lance,Stroll,Lance Stroll,9,6,,,,0 days 01:26:32.650000,Finished,2,9,Sunday Race,Austrian Grand Prix
+10,P GASLY,GAS,Alpine,2293D1,Pierre,Gasly,Pierre Gasly,10,9,,,,0 days 01:26:41.274000,Finished,1,9,Sunday Race,Austrian Grand Prix
+23,A ALBON,ALB,Williams,37BEDD,Alexander,Albon,Alexander Albon,11,10,,,,0 days 01:26:53.374000,Finished,0,9,Sunday Race,Austrian Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,C92D4B,Guanyu,Zhou,Guanyu Zhou,12,17,,,,,+1 Lap,0,9,Sunday Race,Austrian Grand Prix
+2,L SARGEANT,SAR,Williams,37BEDD,Logan,Sargeant,Logan Sargeant,13,18,,,,,+1 Lap,0,9,Sunday Race,Austrian Grand Prix
+31,E OCON,OCO,Alpine,2293D1,Esteban,Ocon,Esteban Ocon,14,12,,,,,+1 Lap,0,9,Sunday Race,Austrian Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,C92D4B,Valtteri,Bottas,Valtteri Bottas,15,14,,,,,+1 Lap,0,9,Sunday Race,Austrian Grand Prix
+81,O PIASTRI,PIA,McLaren,F58020,Oscar,Piastri,Oscar Piastri,16,13,,,,,+1 Lap,0,9,Sunday Race,Austrian Grand Prix
+21,N DE VRIES,DEV,AlphaTauri,5E8FAA,Nyck,De Vries,Nyck De Vries,17,0,,,,,+1 Lap,0,9,Sunday Race,Austrian Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,B6BABD,Kevin,Magnussen,Kevin Magnussen,18,0,,,,,+1 Lap,0,9,Sunday Race,Austrian Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,5E8FAA,Yuki,Tsunoda,Yuki Tsunoda,19,16,,,,,+1 Lap,0,9,Sunday Race,Austrian Grand Prix
+27,N HULKENBERG,HUL,Haas F1 Team,B6BABD,Nico,Hulkenberg,Nico Hulkenberg,20,8,,,,,Power loss,0,9,Sunday Race,Austrian Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,3671C6,Max,Verstappen,Max Verstappen,1,1,,,,0 days 01:25:16.938000,Finished,26,10,Sunday Race,British Grand Prix
+4,L NORRIS,NOR,McLaren,F58020,Lando,Norris,Lando Norris,2,2,,,,0 days 01:25:20.736000,Finished,18,10,Sunday Race,British Grand Prix
+44,L HAMILTON,HAM,Mercedes,6CD3BF,Lewis,Hamilton,Lewis Hamilton,3,7,,,,0 days 01:25:23.721000,Finished,15,10,Sunday Race,British Grand Prix
+81,O PIASTRI,PIA,McLaren,F58020,Oscar,Piastri,Oscar Piastri,4,3,,,,0 days 01:25:24.714000,Finished,12,10,Sunday Race,British Grand Prix
+63,G RUSSELL,RUS,Mercedes,6CD3BF,George,Russell,George Russell,5,6,,,,0 days 01:25:28.144000,Finished,10,10,Sunday Race,British Grand Prix
+11,S PEREZ,PER,Red Bull Racing,3671C6,Sergio,Perez,Sergio Perez,6,15,,,,0 days 01:25:29.820000,Finished,8,10,Sunday Race,British Grand Prix
+14,F ALONSO,ALO,Aston Martin,358C75,Fernando,Alonso,Fernando Alonso,7,9,,,,0 days 01:25:34.131000,Finished,6,10,Sunday Race,British Grand Prix
+23,A ALBON,ALB,Williams,37BEDD,Alexander,Albon,Alexander Albon,8,8,,,,0 days 01:25:34.816000,Finished,4,10,Sunday Race,British Grand Prix
+16,C LECLERC,LEC,Ferrari,F91536,Charles,Leclerc,Charles Leclerc,9,4,,,,0 days 01:25:35.627000,Finished,2,10,Sunday Race,British Grand Prix
+55,C SAINZ,SAI,Ferrari,F91536,Carlos,Sainz,Carlos Sainz,10,5,,,,0 days 01:25:36.386000,Finished,1,10,Sunday Race,British Grand Prix
+2,L SARGEANT,SAR,Williams,37BEDD,Logan,Sargeant,Logan Sargeant,11,14,,,,0 days 01:25:40.570000,Finished,0,10,Sunday Race,British Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,C92D4B,Valtteri,Bottas,Valtteri Bottas,12,20,,,,0 days 01:25:42.768000,Finished,0,10,Sunday Race,British Grand Prix
+27,N HULKENBERG,HUL,Haas F1 Team,B6BABD,Nico,Hulkenberg,Nico Hulkenberg,13,11,,,,0 days 01:25:43.601000,Finished,0,10,Sunday Race,British Grand Prix
+18,L STROLL,STR,Aston Martin,358C75,Lance,Stroll,Lance Stroll,14,12,,,,0 days 01:25:44.421000,Finished,0,10,Sunday Race,British Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,C92D4B,Guanyu,Zhou,Guanyu Zhou,15,17,,,,0 days 01:25:46.758000,Finished,0,10,Sunday Race,British Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,5E8FAA,Yuki,Tsunoda,Yuki Tsunoda,16,16,,,,0 days 01:25:48.163000,Finished,0,10,Sunday Race,British Grand Prix
+21,N DE VRIES,DEV,AlphaTauri,5E8FAA,Nyck,De Vries,Nyck De Vries,17,18,,,,0 days 01:25:50.066000,Finished,0,10,Sunday Race,British Grand Prix
+10,P GASLY,GAS,Alpine,2293D1,Pierre,Gasly,Pierre Gasly,18,10,,,,,Collision damage,0,10,Sunday Race,British Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,B6BABD,Kevin,Magnussen,Kevin Magnussen,19,19,,,,,Engine,0,10,Sunday Race,British Grand Prix
+31,E OCON,OCO,Alpine,2293D1,Esteban,Ocon,Esteban Ocon,20,13,,,,,Oil leak,0,10,Sunday Race,British Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,3671C6,Max,Verstappen,Max Verstappen,1,2,,,,0 days 01:38:08.634000,Finished,26,11,Sunday Race,Hungarian Grand Prix
+4,L NORRIS,NOR,McLaren,F58020,Lando,Norris,Lando Norris,2,3,,,,0 days 01:38:42.365000,Finished,18,11,Sunday Race,Hungarian Grand Prix
+11,S PEREZ,PER,Red Bull Racing,3671C6,Sergio,Perez,Sergio Perez,3,9,,,,0 days 01:38:46.237000,Finished,15,11,Sunday Race,Hungarian Grand Prix
+44,L HAMILTON,HAM,Mercedes,6CD3BF,Lewis,Hamilton,Lewis Hamilton,4,1,,,,0 days 01:38:47.768000,Finished,12,11,Sunday Race,Hungarian Grand Prix
+81,O PIASTRI,PIA,McLaren,F58020,Oscar,Piastri,Oscar Piastri,5,4,,,,0 days 01:39:11.206000,Finished,10,11,Sunday Race,Hungarian Grand Prix
+63,G RUSSELL,RUS,Mercedes,6CD3BF,George,Russell,George Russell,6,18,,,,0 days 01:39:14.459000,Finished,8,11,Sunday Race,Hungarian Grand Prix
+16,C LECLERC,LEC,Ferrari,F91536,Charles,Leclerc,Charles Leclerc,7,6,,,,0 days 01:39:18.951000,Finished,6,11,Sunday Race,Hungarian Grand Prix
+55,C SAINZ,SAI,Ferrari,F91536,Carlos,Sainz,Carlos Sainz,8,11,,,,0 days 01:39:19.707000,Finished,4,11,Sunday Race,Hungarian Grand Prix
+14,F ALONSO,ALO,Aston Martin,358C75,Fernando,Alonso,Fernando Alonso,9,8,,,,0 days 01:39:24.343000,Finished,2,11,Sunday Race,Hungarian Grand Prix
+18,L STROLL,STR,Aston Martin,358C75,Lance,Stroll,Lance Stroll,10,14,,,,,+1 Lap,1,11,Sunday Race,Hungarian Grand Prix
+23,A ALBON,ALB,Williams,37BEDD,Alexander,Albon,Alexander Albon,11,16,,,,,+1 Lap,0,11,Sunday Race,Hungarian Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,C92D4B,Valtteri,Bottas,Valtteri Bottas,12,7,,,,,+1 Lap,0,11,Sunday Race,Hungarian Grand Prix
+3,D RICCIARDO,RIC,AlphaTauri,5E8FAA,Daniel,Ricciardo,Daniel Ricciardo,13,13,,,,,+1 Lap,0,11,Sunday Race,Hungarian Grand Prix
+27,N HULKENBERG,HUL,Haas F1 Team,B6BABD,Nico,Hulkenberg,Nico Hulkenberg,14,10,,,,,+1 Lap,0,11,Sunday Race,Hungarian Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,5E8FAA,Yuki,Tsunoda,Yuki Tsunoda,15,17,,,,,+1 Lap,0,11,Sunday Race,Hungarian Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,C92D4B,Guanyu,Zhou,Guanyu Zhou,16,5,,,,,+1 Lap,0,11,Sunday Race,Hungarian Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,B6BABD,Kevin,Magnussen,Kevin Magnussen,17,19,,,,,+1 Lap,0,11,Sunday Race,Hungarian Grand Prix
+2,L SARGEANT,SAR,Williams,37BEDD,Logan,Sargeant,Logan Sargeant,18,20,,,,,Retired,0,11,Sunday Race,Hungarian Grand Prix
+31,E OCON,OCO,Alpine,2293D1,Esteban,Ocon,Esteban Ocon,19,12,,,,,Collision damage,0,11,Sunday Race,Hungarian Grand Prix
+10,P GASLY,GAS,Alpine,2293D1,Pierre,Gasly,Pierre Gasly,20,15,,,,,Collision damage,0,11,Sunday Race,Hungarian Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,3671C6,Max,Verstappen,Max Verstappen,1,6,,,,0 days 01:22:30.450000,Finished,25,12,Sunday Race,Belgian Grand Prix
+11,S PEREZ,PER,Red Bull Racing,3671C6,Sergio,Perez,Sergio Perez,2,2,,,,0 days 01:22:52.755000,Finished,18,12,Sunday Race,Belgian Grand Prix
+16,C LECLERC,LEC,Ferrari,F91536,Charles,Leclerc,Charles Leclerc,3,1,,,,0 days 01:23:02.709000,Finished,15,12,Sunday Race,Belgian Grand Prix
+44,L HAMILTON,HAM,Mercedes,6CD3BF,Lewis,Hamilton,Lewis Hamilton,4,3,,,,0 days 01:23:20.121000,Finished,13,12,Sunday Race,Belgian Grand Prix
+14,F ALONSO,ALO,Aston Martin,358C75,Fernando,Alonso,Fernando Alonso,5,9,,,,0 days 01:23:26.634000,Finished,10,12,Sunday Race,Belgian Grand Prix
+63,G RUSSELL,RUS,Mercedes,6CD3BF,George,Russell,George Russell,6,8,,,,0 days 01:23:33.551000,Finished,8,12,Sunday Race,Belgian Grand Prix
+4,L NORRIS,NOR,McLaren,F58020,Lando,Norris,Lando Norris,7,7,,,,0 days 01:23:44.169000,Finished,6,12,Sunday Race,Belgian Grand Prix
+31,E OCON,OCO,Alpine,2293D1,Esteban,Ocon,Esteban Ocon,8,14,,,,0 days 01:23:45.169000,Finished,4,12,Sunday Race,Belgian Grand Prix
+18,L STROLL,STR,Aston Martin,358C75,Lance,Stroll,Lance Stroll,9,10,,,,0 days 01:23:49.790000,Finished,2,12,Sunday Race,Belgian Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,5E8FAA,Yuki,Tsunoda,Yuki Tsunoda,10,11,,,,0 days 01:23:50.671000,Finished,1,12,Sunday Race,Belgian Grand Prix
+10,P GASLY,GAS,Alpine,2293D1,Pierre,Gasly,Pierre Gasly,11,12,,,,0 days 01:23:53.534000,Finished,0,12,Sunday Race,Belgian Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,C92D4B,Valtteri,Bottas,Valtteri Bottas,12,13,,,,0 days 01:23:55.641000,Finished,0,12,Sunday Race,Belgian Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,C92D4B,Guanyu,Zhou,Guanyu Zhou,13,17,,,,0 days 01:24:05.891000,Finished,0,12,Sunday Race,Belgian Grand Prix
+23,A ALBON,ALB,Williams,37BEDD,Alexander,Albon,Alexander Albon,14,15,,,,0 days 01:24:06.634000,Finished,0,12,Sunday Race,Belgian Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,B6BABD,Kevin,Magnussen,Kevin Magnussen,15,16,,,,0 days 01:24:12.204000,Finished,0,12,Sunday Race,Belgian Grand Prix
+3,D RICCIARDO,RIC,AlphaTauri,5E8FAA,Daniel,Ricciardo,Daniel Ricciardo,16,19,,,,0 days 01:24:13.521000,Finished,0,12,Sunday Race,Belgian Grand Prix
+2,L SARGEANT,SAR,Williams,37BEDD,Logan,Sargeant,Logan Sargeant,17,18,,,,0 days 01:24:14.926000,Finished,0,12,Sunday Race,Belgian Grand Prix
+27,N HULKENBERG,HUL,Haas F1 Team,B6BABD,Nico,Hulkenberg,Nico Hulkenberg,18,0,,,,0 days 01:24:20.900000,Finished,0,12,Sunday Race,Belgian Grand Prix
+55,C SAINZ,SAI,Ferrari,F91536,Carlos,Sainz,Carlos Sainz,19,4,,,,,Collision damage,0,12,Sunday Race,Belgian Grand Prix
+81,O PIASTRI,PIA,McLaren,F58020,Oscar,Piastri,Oscar Piastri,20,5,,,,,Collision damage,0,12,Sunday Race,Belgian Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,3671C6,Max,Verstappen,Max Verstappen,1,1,,,,0 days 02:24:04.411000,Finished,25,13,Sunday Race,Dutch Grand Prix
+14,F ALONSO,ALO,Aston Martin,358C75,Fernando,Alonso,Fernando Alonso,2,5,,,,0 days 02:24:08.155000,Finished,19,13,Sunday Race,Dutch Grand Prix
+10,P GASLY,GAS,Alpine,2293D1,Pierre,Gasly,Pierre Gasly,3,12,,,,0 days 02:24:11.469000,Finished,15,13,Sunday Race,Dutch Grand Prix
+11,S PEREZ,PER,Red Bull Racing,3671C6,Sergio,Perez,Sergio Perez,4,7,,,,0 days 02:24:14.479000,Finished,12,13,Sunday Race,Dutch Grand Prix
+55,C SAINZ,SAI,Ferrari,F91536,Carlos,Sainz,Carlos Sainz,5,6,,,,0 days 02:24:16.952000,Finished,10,13,Sunday Race,Dutch Grand Prix
+44,L HAMILTON,HAM,Mercedes,6CD3BF,Lewis,Hamilton,Lewis Hamilton,6,13,,,,0 days 02:24:17.620000,Finished,8,13,Sunday Race,Dutch Grand Prix
+4,L NORRIS,NOR,McLaren,F58020,Lando,Norris,Lando Norris,7,2,,,,0 days 02:24:17.643000,Finished,6,13,Sunday Race,Dutch Grand Prix
+23,A ALBON,ALB,Williams,37BEDD,Alexander,Albon,Alexander Albon,8,4,,,,0 days 02:24:19.566000,Finished,4,13,Sunday Race,Dutch Grand Prix
+81,O PIASTRI,PIA,McLaren,F58020,Oscar,Piastri,Oscar Piastri,9,8,,,,0 days 02:24:20.991000,Finished,2,13,Sunday Race,Dutch Grand Prix
+31,E OCON,OCO,Alpine,2293D1,Esteban,Ocon,Esteban Ocon,10,16,,,,0 days 02:24:22.757000,Finished,1,13,Sunday Race,Dutch Grand Prix
+18,L STROLL,STR,Aston Martin,358C75,Lance,Stroll,Lance Stroll,11,11,,,,0 days 02:24:24.498000,Finished,0,13,Sunday Race,Dutch Grand Prix
+27,N HULKENBERG,HUL,Haas F1 Team,B6BABD,Nico,Hulkenberg,Nico Hulkenberg,12,14,,,,0 days 02:24:25.251000,Finished,0,13,Sunday Race,Dutch Grand Prix
+40,L LAWSON,LAW,AlphaTauri,5E8FAA,Liam,Lawson,Liam Lawson,13,19,,,,0 days 02:24:30.558000,Finished,0,13,Sunday Race,Dutch Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,C92D4B,Valtteri,Bottas,Valtteri Bottas,14,18,,,,0 days 02:24:31.799000,Finished,0,13,Sunday Race,Dutch Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,5E8FAA,Yuki,Tsunoda,Yuki Tsunoda,15,17,,,,0 days 02:24:34.304000,Finished,0,13,Sunday Race,Dutch Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,B6BABD,Kevin,Magnussen,Kevin Magnussen,16,0,,,,0 days 02:24:35.821000,Finished,0,13,Sunday Race,Dutch Grand Prix
+63,G RUSSELL,RUS,Mercedes,6CD3BF,George,Russell,George Russell,17,3,,,,0 days 02:25:00.165000,Finished,0,13,Sunday Race,Dutch Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,C92D4B,Guanyu,Zhou,Guanyu Zhou,18,15,,,,,Accident,0,13,Sunday Race,Dutch Grand Prix
+16,C LECLERC,LEC,Ferrari,F91536,Charles,Leclerc,Charles Leclerc,19,9,,,,,Undertray,0,13,Sunday Race,Dutch Grand Prix
+2,L SARGEANT,SAR,Williams,37BEDD,Logan,Sargeant,Logan Sargeant,20,10,,,,,Accident,0,13,Sunday Race,Dutch Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,3671C6,Max,Verstappen,Max Verstappen,1,2,,,,0 days 01:13:41.143000,Finished,25,14,Sunday Race,Italian Grand Prix
+11,S PEREZ,PER,Red Bull Racing,3671C6,Sergio,Perez,Sergio Perez,2,5,,,,0 days 01:13:47.207000,Finished,18,14,Sunday Race,Italian Grand Prix
+55,C SAINZ,SAI,Ferrari,F91536,Carlos,Sainz,Carlos Sainz,3,1,,,,0 days 01:13:52.336000,Finished,15,14,Sunday Race,Italian Grand Prix
+16,C LECLERC,LEC,Ferrari,F91536,Charles,Leclerc,Charles Leclerc,4,3,,,,0 days 01:13:52.520000,Finished,12,14,Sunday Race,Italian Grand Prix
+63,G RUSSELL,RUS,Mercedes,6CD3BF,George,Russell,George Russell,5,4,,,,0 days 01:14:04.171000,Finished,10,14,Sunday Race,Italian Grand Prix
+44,L HAMILTON,HAM,Mercedes,6CD3BF,Lewis,Hamilton,Lewis Hamilton,6,8,,,,0 days 01:14:23.822000,Finished,8,14,Sunday Race,Italian Grand Prix
+23,A ALBON,ALB,Williams,37BEDD,Alexander,Albon,Alexander Albon,7,6,,,,0 days 01:14:26.249000,Finished,6,14,Sunday Race,Italian Grand Prix
+4,L NORRIS,NOR,McLaren,F58020,Lando,Norris,Lando Norris,8,9,,,,0 days 01:14:26.592000,Finished,4,14,Sunday Race,Italian Grand Prix
+14,F ALONSO,ALO,Aston Martin,358C75,Fernando,Alonso,Fernando Alonso,9,10,,,,0 days 01:14:27.437000,Finished,2,14,Sunday Race,Italian Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,C92D4B,Valtteri,Bottas,Valtteri Bottas,10,14,,,,0 days 01:14:45.199000,Finished,1,14,Sunday Race,Italian Grand Prix
+40,L LAWSON,LAW,AlphaTauri,5E8FAA,Liam,Lawson,Liam Lawson,11,12,,,,0 days 01:14:51.781000,Finished,0,14,Sunday Race,Italian Grand Prix
+81,O PIASTRI,PIA,McLaren,F58020,Oscar,Piastri,Oscar Piastri,12,7,,,,0 days 01:14:54.217000,Finished,0,14,Sunday Race,Italian Grand Prix
+2,L SARGEANT,SAR,Williams,37BEDD,Logan,Sargeant,Logan Sargeant,13,15,,,,0 days 01:14:59.700000,Finished,0,14,Sunday Race,Italian Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,C92D4B,Guanyu,Zhou,Guanyu Zhou,14,16,,,,0 days 01:15:01.307000,Finished,0,14,Sunday Race,Italian Grand Prix
+10,P GASLY,GAS,Alpine,2293D1,Pierre,Gasly,Pierre Gasly,15,17,,,,0 days 01:15:03.653000,Finished,0,14,Sunday Race,Italian Grand Prix
+18,L STROLL,STR,Aston Martin,358C75,Lance,Stroll,Lance Stroll,16,20,,,,0 days 01:15:08.409000,Finished,0,14,Sunday Race,Italian Grand Prix
+27,N HULKENBERG,HUL,Haas F1 Team,B6BABD,Nico,Hulkenberg,Nico Hulkenberg,17,13,,,,,+1 Lap,0,14,Sunday Race,Italian Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,B6BABD,Kevin,Magnussen,Kevin Magnussen,18,19,,,,,+1 Lap,0,14,Sunday Race,Italian Grand Prix
+31,E OCON,OCO,Alpine,2293D1,Esteban,Ocon,Esteban Ocon,19,18,,,,,Steering,0,14,Sunday Race,Italian Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,5E8FAA,Yuki,Tsunoda,Yuki Tsunoda,20,11,,,,,Engine,0,14,Sunday Race,Italian Grand Prix
+55,C SAINZ,SAI,Ferrari,F91536,Carlos,Sainz,Carlos Sainz,1,1,,,,0 days 01:46:37.418000,Finished,25,15,Sunday Race,Singapore Grand Prix
+4,L NORRIS,NOR,McLaren,F58020,Lando,Norris,Lando Norris,2,4,,,,0 days 01:46:38.230000,Finished,18,15,Sunday Race,Singapore Grand Prix
+44,L HAMILTON,HAM,Mercedes,6CD3BF,Lewis,Hamilton,Lewis Hamilton,3,5,,,,0 days 01:46:38.687000,Finished,16,15,Sunday Race,Singapore Grand Prix
+16,C LECLERC,LEC,Ferrari,F91536,Charles,Leclerc,Charles Leclerc,4,3,,,,0 days 01:46:58.595000,Finished,12,15,Sunday Race,Singapore Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,3671C6,Max,Verstappen,Max Verstappen,5,11,,,,0 days 01:46:58.859000,Finished,10,15,Sunday Race,Singapore Grand Prix
+10,P GASLY,GAS,Alpine,2293D1,Pierre,Gasly,Pierre Gasly,6,12,,,,0 days 01:47:15.859000,Finished,8,15,Sunday Race,Singapore Grand Prix
+81,O PIASTRI,PIA,McLaren,F58020,Oscar,Piastri,Oscar Piastri,7,17,,,,0 days 01:47:18.897000,Finished,6,15,Sunday Race,Singapore Grand Prix
+11,S PEREZ,PER,Red Bull Racing,3671C6,Sergio,Perez,Sergio Perez,8,13,,,,0 days 01:47:36.952000,Finished,4,15,Sunday Race,Singapore Grand Prix
+40,L LAWSON,LAW,AlphaTauri,5E8FAA,Liam,Lawson,Liam Lawson,9,10,,,,0 days 01:47:43.336000,Finished,2,15,Sunday Race,Singapore Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,B6BABD,Kevin,Magnussen,Kevin Magnussen,10,6,,,,0 days 01:47:49.534000,Finished,1,15,Sunday Race,Singapore Grand Prix
+23,A ALBON,ALB,Williams,37BEDD,Alexander,Albon,Alexander Albon,11,14,,,,0 days 01:47:50.835000,Finished,0,15,Sunday Race,Singapore Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,C92D4B,Guanyu,Zhou,Guanyu Zhou,12,0,,,,0 days 01:48:01.067000,Finished,0,15,Sunday Race,Singapore Grand Prix
+27,N HULKENBERG,HUL,Haas F1 Team,B6BABD,Nico,Hulkenberg,Nico Hulkenberg,13,9,,,,0 days 01:48:03.619000,Finished,0,15,Sunday Race,Singapore Grand Prix
+2,L SARGEANT,SAR,Williams,37BEDD,Logan,Sargeant,Logan Sargeant,14,18,,,,0 days 01:48:04.307000,Finished,0,15,Sunday Race,Singapore Grand Prix
+14,F ALONSO,ALO,Aston Martin,358C75,Fernando,Alonso,Fernando Alonso,15,7,,,,0 days 01:48:05.021000,Finished,0,15,Sunday Race,Singapore Grand Prix
+63,G RUSSELL,RUS,Mercedes,6CD3BF,George,Russell,George Russell,16,2,,,,,Accident,0,15,Sunday Race,Singapore Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,C92D4B,Valtteri,Bottas,Valtteri Bottas,17,16,,,,,Technical,0,15,Sunday Race,Singapore Grand Prix
+31,E OCON,OCO,Alpine,2293D1,Esteban,Ocon,Esteban Ocon,18,8,,,,,Gearbox,0,15,Sunday Race,Singapore Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,5E8FAA,Yuki,Tsunoda,Yuki Tsunoda,19,15,,,,,Collision,0,15,Sunday Race,Singapore Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,3671C6,Max,Verstappen,Max Verstappen,1,1,,,,0 days 01:30:58.421000,Finished,26,16,Sunday Race,Japanese Grand Prix
+4,L NORRIS,NOR,McLaren,F58020,Lando,Norris,Lando Norris,2,3,,,,0 days 01:31:17.808000,Finished,18,16,Sunday Race,Japanese Grand Prix
+81,O PIASTRI,PIA,McLaren,F58020,Oscar,Piastri,Oscar Piastri,3,2,,,,0 days 01:31:34.915000,Finished,15,16,Sunday Race,Japanese Grand Prix
+16,C LECLERC,LEC,Ferrari,F91536,Charles,Leclerc,Charles Leclerc,4,4,,,,0 days 01:31:42.419000,Finished,12,16,Sunday Race,Japanese Grand Prix
+44,L HAMILTON,HAM,Mercedes,6CD3BF,Lewis,Hamilton,Lewis Hamilton,5,7,,,,0 days 01:31:47.797000,Finished,10,16,Sunday Race,Japanese Grand Prix
+55,C SAINZ,SAI,Ferrari,F91536,Carlos,Sainz,Carlos Sainz,6,6,,,,0 days 01:31:48.642000,Finished,8,16,Sunday Race,Japanese Grand Prix
+63,G RUSSELL,RUS,Mercedes,6CD3BF,George,Russell,George Russell,7,8,,,,0 days 01:31:56.080000,Finished,6,16,Sunday Race,Japanese Grand Prix
+14,F ALONSO,ALO,Aston Martin,358C75,Fernando,Alonso,Fernando Alonso,8,10,,,,0 days 01:32:13.146000,Finished,4,16,Sunday Race,Japanese Grand Prix
+31,E OCON,OCO,Alpine,2293D1,Esteban,Ocon,Esteban Ocon,9,14,,,,0 days 01:32:18.099000,Finished,2,16,Sunday Race,Japanese Grand Prix
+10,P GASLY,GAS,Alpine,2293D1,Pierre,Gasly,Pierre Gasly,10,12,,,,0 days 01:32:21.576000,Finished,1,16,Sunday Race,Japanese Grand Prix
+40,L LAWSON,LAW,AlphaTauri,5E8FAA,Liam,Lawson,Liam Lawson,11,11,,,,,+1 Lap,0,16,Sunday Race,Japanese Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,5E8FAA,Yuki,Tsunoda,Yuki Tsunoda,12,9,,,,,+1 Lap,0,16,Sunday Race,Japanese Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,C92D4B,Guanyu,Zhou,Guanyu Zhou,13,19,,,,,+1 Lap,0,16,Sunday Race,Japanese Grand Prix
+27,N HULKENBERG,HUL,Haas F1 Team,B6BABD,Nico,Hulkenberg,Nico Hulkenberg,14,18,,,,,+1 Lap,0,16,Sunday Race,Japanese Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,B6BABD,Kevin,Magnussen,Kevin Magnussen,15,15,,,,,+1 Lap,0,16,Sunday Race,Japanese Grand Prix
+23,A ALBON,ALB,Williams,37BEDD,Alexander,Albon,Alexander Albon,16,13,,,,,Collision damage,0,16,Sunday Race,Japanese Grand Prix
+2,L SARGEANT,SAR,Williams,37BEDD,Logan,Sargeant,Logan Sargeant,17,0,,,,,Collision damage,0,16,Sunday Race,Japanese Grand Prix
+18,L STROLL,STR,Aston Martin,358C75,Lance,Stroll,Lance Stroll,18,17,,,,,Rear wing,0,16,Sunday Race,Japanese Grand Prix
+11,S PEREZ,PER,Red Bull Racing,3671C6,Sergio,Perez,Sergio Perez,19,5,,,,,Collision damage,0,16,Sunday Race,Japanese Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,C92D4B,Valtteri,Bottas,Valtteri Bottas,20,16,,,,,Collision damage,0,16,Sunday Race,Japanese Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,3671C6,Max,Verstappen,Max Verstappen,1,1,,,,0 days 01:27:39.168000,Finished,26,17,Sunday Race,Qatar Grand Prix
+81,O PIASTRI,PIA,McLaren,F58020,Oscar,Piastri,Oscar Piastri,2,6,,,,0 days 01:27:44.001000,Finished,18,17,Sunday Race,Qatar Grand Prix
+4,L NORRIS,NOR,McLaren,F58020,Lando,Norris,Lando Norris,3,10,,,,0 days 01:27:45.137000,Finished,15,17,Sunday Race,Qatar Grand Prix
+63,G RUSSELL,RUS,Mercedes,6CD3BF,George,Russell,George Russell,4,2,,,,0 days 01:28:13.287000,Finished,12,17,Sunday Race,Qatar Grand Prix
+16,C LECLERC,LEC,Ferrari,F91536,Charles,Leclerc,Charles Leclerc,5,5,,,,0 days 01:28:18.144000,Finished,10,17,Sunday Race,Qatar Grand Prix
+14,F ALONSO,ALO,Aston Martin,358C75,Fernando,Alonso,Fernando Alonso,6,4,,,,0 days 01:28:28.200000,Finished,8,17,Sunday Race,Qatar Grand Prix
+31,E OCON,OCO,Alpine,2293D1,Esteban,Ocon,Esteban Ocon,7,8,,,,0 days 01:28:41.558000,Finished,6,17,Sunday Race,Qatar Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,C92D4B,Valtteri,Bottas,Valtteri Bottas,8,9,,,,0 days 01:28:45.731000,Finished,4,17,Sunday Race,Qatar Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,C92D4B,Guanyu,Zhou,Guanyu Zhou,9,19,,,,0 days 01:28:55.295000,Finished,2,17,Sunday Race,Qatar Grand Prix
+11,S PEREZ,PER,Red Bull Racing,3671C6,Sergio,Perez,Sergio Perez,10,0,,,,0 days 01:28:59.349000,Finished,1,17,Sunday Race,Qatar Grand Prix
+18,L STROLL,STR,Aston Martin,358C75,Lance,Stroll,Lance Stroll,11,16,,,,0 days 01:29:00.820000,Finished,0,17,Sunday Race,Qatar Grand Prix
+10,P GASLY,GAS,Alpine,2293D1,Pierre,Gasly,Pierre Gasly,12,7,,,,0 days 01:29:01.468000,Finished,0,17,Sunday Race,Qatar Grand Prix
+23,A ALBON,ALB,Williams,37BEDD,Alexander,Albon,Alexander Albon,13,13,,,,0 days 01:29:10.182000,Finished,0,17,Sunday Race,Qatar Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,B6BABD,Kevin,Magnussen,Kevin Magnussen,14,18,,,,,+1 Lap,0,17,Sunday Race,Qatar Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,5E8FAA,Yuki,Tsunoda,Yuki Tsunoda,15,11,,,,,+1 Lap,0,17,Sunday Race,Qatar Grand Prix
+27,N HULKENBERG,HUL,Haas F1 Team,B6BABD,Nico,Hulkenberg,Nico Hulkenberg,16,14,,,,,+1 Lap,0,17,Sunday Race,Qatar Grand Prix
+40,L LAWSON,LAW,AlphaTauri,5E8FAA,Liam,Lawson,Liam Lawson,17,17,,,,,+1 Lap,0,17,Sunday Race,Qatar Grand Prix
+2,L SARGEANT,SAR,Williams,37BEDD,Logan,Sargeant,Logan Sargeant,18,15,,,,,Illness,0,17,Sunday Race,Qatar Grand Prix
+44,L HAMILTON,HAM,Mercedes,6CD3BF,Lewis,Hamilton,Lewis Hamilton,19,3,,,,,Collision,0,17,Sunday Race,Qatar Grand Prix
+55,C SAINZ,SAI,Ferrari,F91536,Carlos,Sainz,Carlos Sainz,20,12,,,,,Fuel leak,0,17,Sunday Race,Qatar Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,3671C6,Max,Verstappen,Max Verstappen,1,6,,,,0 days 01:35:21.362000,Finished,25,18,Sunday Race,United States Grand Prix
+4,L NORRIS,NOR,McLaren,F58020,Lando,Norris,Lando Norris,2,2,,,,0 days 01:35:32.092000,Finished,18,18,Sunday Race,United States Grand Prix
+55,C SAINZ,SAI,Ferrari,F91536,Carlos,Sainz,Carlos Sainz,3,4,,,,0 days 01:35:36.496000,Finished,15,18,Sunday Race,United States Grand Prix
+11,S PEREZ,PER,Red Bull Racing,3671C6,Sergio,Perez,Sergio Perez,4,9,,,,0 days 01:35:39.822000,Finished,12,18,Sunday Race,United States Grand Prix
+63,G RUSSELL,RUS,Mercedes,6CD3BF,George,Russell,George Russell,5,5,,,,0 days 01:35:46.361000,Finished,10,18,Sunday Race,United States Grand Prix
+10,P GASLY,GAS,Alpine,2293D1,Pierre,Gasly,Pierre Gasly,6,7,,,,0 days 01:36:09.358000,Finished,8,18,Sunday Race,United States Grand Prix
+18,L STROLL,STR,Aston Martin,358C75,Lance,Stroll,Lance Stroll,7,0,,,,0 days 01:36:10.058000,Finished,6,18,Sunday Race,United States Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,5E8FAA,Yuki,Tsunoda,Yuki Tsunoda,8,11,,,,0 days 01:36:35.747000,Finished,5,18,Sunday Race,United States Grand Prix
+23,A ALBON,ALB,Williams,37BEDD,Alexander,Albon,Alexander Albon,9,15,,,,0 days 01:36:48.076000,Finished,2,18,Sunday Race,United States Grand Prix
+2,L SARGEANT,SAR,Williams,37BEDD,Logan,Sargeant,Logan Sargeant,10,16,,,,0 days 01:36:49.360000,Finished,1,18,Sunday Race,United States Grand Prix
+27,N HULKENBERG,HUL,Haas F1 Team,B6BABD,Nico,Hulkenberg,Nico Hulkenberg,11,0,,,,0 days 01:36:51.266000,Finished,0,18,Sunday Race,United States Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,C92D4B,Valtteri,Bottas,Valtteri Bottas,12,13,,,,0 days 01:36:59.963000,Finished,0,18,Sunday Race,United States Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,C92D4B,Guanyu,Zhou,Guanyu Zhou,13,12,,,,,+1 Lap,0,18,Sunday Race,United States Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,B6BABD,Kevin,Magnussen,Kevin Magnussen,14,0,,,,,+1 Lap,0,18,Sunday Race,United States Grand Prix
+3,D RICCIARDO,RIC,AlphaTauri,5E8FAA,Daniel,Ricciardo,Daniel Ricciardo,15,14,,,,,+1 Lap,0,18,Sunday Race,United States Grand Prix
+14,F ALONSO,ALO,Aston Martin,358C75,Fernando,Alonso,Fernando Alonso,16,0,,,,,Undertray,0,18,Sunday Race,United States Grand Prix
+81,O PIASTRI,PIA,McLaren,F58020,Oscar,Piastri,Oscar Piastri,17,10,,,,,Radiator,0,18,Sunday Race,United States Grand Prix
+31,E OCON,OCO,Alpine,2293D1,Esteban,Ocon,Esteban Ocon,18,8,,,,,Collision damage,0,18,Sunday Race,United States Grand Prix
+44,L HAMILTON,HAM,Mercedes,6CD3BF,Lewis,Hamilton,Lewis Hamilton,19,3,,,,,Disqualified,0,18,Sunday Race,United States Grand Prix
+16,C LECLERC,LEC,Ferrari,F91536,Charles,Leclerc,Charles Leclerc,20,1,,,,,Disqualified,0,18,Sunday Race,United States Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,3671C6,Max,Verstappen,Max Verstappen,1,3,,,,0 days 02:02:30.814000,Finished,25,19,Sunday Race,Mexico City Grand Prix
+44,L HAMILTON,HAM,Mercedes,6CD3BF,Lewis,Hamilton,Lewis Hamilton,2,6,,,,0 days 02:02:44.689000,Finished,19,19,Sunday Race,Mexico City Grand Prix
+16,C LECLERC,LEC,Ferrari,F91536,Charles,Leclerc,Charles Leclerc,3,1,,,,0 days 02:02:53.938000,Finished,15,19,Sunday Race,Mexico City Grand Prix
+55,C SAINZ,SAI,Ferrari,F91536,Carlos,Sainz,Carlos Sainz,4,2,,,,0 days 02:02:57.968000,Finished,12,19,Sunday Race,Mexico City Grand Prix
+4,L NORRIS,NOR,McLaren,F58020,Lando,Norris,Lando Norris,5,17,,,,0 days 02:03:04.080000,Finished,10,19,Sunday Race,Mexico City Grand Prix
+63,G RUSSELL,RUS,Mercedes,6CD3BF,George,Russell,George Russell,6,8,,,,0 days 02:03:11.834000,Finished,8,19,Sunday Race,Mexico City Grand Prix
+3,D RICCIARDO,RIC,AlphaTauri,5E8FAA,Daniel,Ricciardo,Daniel Ricciardo,7,4,,,,0 days 02:03:12.384000,Finished,6,19,Sunday Race,Mexico City Grand Prix
+81,O PIASTRI,PIA,McLaren,F58020,Oscar,Piastri,Oscar Piastri,8,7,,,,0 days 02:03:13.918000,Finished,4,19,Sunday Race,Mexico City Grand Prix
+23,A ALBON,ALB,Williams,37BEDD,Alexander,Albon,Alexander Albon,9,14,,,,0 days 02:03:19.387000,Finished,2,19,Sunday Race,Mexico City Grand Prix
+31,E OCON,OCO,Alpine,2293D1,Esteban,Ocon,Esteban Ocon,10,15,,,,0 days 02:03:33.693000,Finished,1,19,Sunday Race,Mexico City Grand Prix
+10,P GASLY,GAS,Alpine,2293D1,Pierre,Gasly,Pierre Gasly,11,11,,,,0 days 02:03:37.022000,Finished,0,19,Sunday Race,Mexico City Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,5E8FAA,Yuki,Tsunoda,Yuki Tsunoda,12,18,,,,0 days 02:03:49.796000,Finished,0,19,Sunday Race,Mexico City Grand Prix
+27,N HULKENBERG,HUL,Haas F1 Team,B6BABD,Nico,Hulkenberg,Nico Hulkenberg,13,12,,,,0 days 02:03:51.123000,Finished,0,19,Sunday Race,Mexico City Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,C92D4B,Guanyu,Zhou,Guanyu Zhou,14,10,,,,0 days 02:03:52.490000,Finished,0,19,Sunday Race,Mexico City Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,C92D4B,Valtteri,Bottas,Valtteri Bottas,15,9,,,,0 days 02:03:56.411000,Finished,0,19,Sunday Race,Mexico City Grand Prix
+2,L SARGEANT,SAR,Williams,37BEDD,Logan,Sargeant,Logan Sargeant,16,19,,,,,Retired,0,19,Sunday Race,Mexico City Grand Prix
+18,L STROLL,STR,Aston Martin,358C75,Lance,Stroll,Lance Stroll,17,0,,,,,Collision damage,0,19,Sunday Race,Mexico City Grand Prix
+14,F ALONSO,ALO,Aston Martin,358C75,Fernando,Alonso,Fernando Alonso,18,13,,,,,Withdrew,0,19,Sunday Race,Mexico City Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,B6BABD,Kevin,Magnussen,Kevin Magnussen,19,16,,,,,Accident,0,19,Sunday Race,Mexico City Grand Prix
+11,S PEREZ,PER,Red Bull Racing,3671C6,Sergio,Perez,Sergio Perez,20,5,,,,,Collision damage,0,19,Sunday Race,Mexico City Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,3671C6,Max,Verstappen,Max Verstappen,1,1,,,,0 days 01:56:48.894000,Finished,25,20,Sunday Race,São Paulo Grand Prix
+4,L NORRIS,NOR,McLaren,F58020,Lando,Norris,Lando Norris,2,6,,,,0 days 01:56:57.171000,Finished,19,20,Sunday Race,São Paulo Grand Prix
+14,F ALONSO,ALO,Aston Martin,358C75,Fernando,Alonso,Fernando Alonso,3,4,,,,0 days 01:57:23.049000,Finished,15,20,Sunday Race,São Paulo Grand Prix
+11,S PEREZ,PER,Red Bull Racing,3671C6,Sergio,Perez,Sergio Perez,4,9,,,,0 days 01:57:23.102000,Finished,12,20,Sunday Race,São Paulo Grand Prix
+18,L STROLL,STR,Aston Martin,358C75,Lance,Stroll,Lance Stroll,5,3,,,,0 days 01:57:29.739000,Finished,10,20,Sunday Race,São Paulo Grand Prix
+55,C SAINZ,SAI,Ferrari,F91536,Carlos,Sainz,Carlos Sainz,6,7,,,,0 days 01:57:39.082000,Finished,8,20,Sunday Race,São Paulo Grand Prix
+10,P GASLY,GAS,Alpine,2293D1,Pierre,Gasly,Pierre Gasly,7,15,,,,0 days 01:57:44.987000,Finished,6,20,Sunday Race,São Paulo Grand Prix
+44,L HAMILTON,HAM,Mercedes,6CD3BF,Lewis,Hamilton,Lewis Hamilton,8,5,,,,0 days 01:57:51.753000,Finished,4,20,Sunday Race,São Paulo Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,5E8FAA,Yuki,Tsunoda,Yuki Tsunoda,9,16,,,,0 days 01:57:58.774000,Finished,2,20,Sunday Race,São Paulo Grand Prix
+31,E OCON,OCO,Alpine,2293D1,Esteban,Ocon,Esteban Ocon,10,14,,,,,+1 Lap,1,20,Sunday Race,São Paulo Grand Prix
+2,L SARGEANT,SAR,Williams,37BEDD,Logan,Sargeant,Logan Sargeant,11,19,,,,,+1 Lap,0,20,Sunday Race,São Paulo Grand Prix
+27,N HULKENBERG,HUL,Haas F1 Team,B6BABD,Nico,Hulkenberg,Nico Hulkenberg,12,11,,,,,+1 Lap,0,20,Sunday Race,São Paulo Grand Prix
+3,D RICCIARDO,RIC,AlphaTauri,5E8FAA,Daniel,Ricciardo,Daniel Ricciardo,13,17,,,,,+1 Lap,0,20,Sunday Race,São Paulo Grand Prix
+81,O PIASTRI,PIA,McLaren,F58020,Oscar,Piastri,Oscar Piastri,14,10,,,,,+2 Laps,0,20,Sunday Race,São Paulo Grand Prix
+63,G RUSSELL,RUS,Mercedes,6CD3BF,George,Russell,George Russell,15,8,,,,,Overheating,0,20,Sunday Race,São Paulo Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,C92D4B,Valtteri,Bottas,Valtteri Bottas,16,18,,,,,Engine,0,20,Sunday Race,São Paulo Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,C92D4B,Guanyu,Zhou,Guanyu Zhou,17,20,,,,,Engine,0,20,Sunday Race,São Paulo Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,B6BABD,Kevin,Magnussen,Kevin Magnussen,18,12,,,,,Collision,0,20,Sunday Race,São Paulo Grand Prix
+23,A ALBON,ALB,Williams,37BEDD,Alexander,Albon,Alexander Albon,19,13,,,,,Collision,0,20,Sunday Race,São Paulo Grand Prix
+16,C LECLERC,LEC,Ferrari,F91536,Charles,Leclerc,Charles Leclerc,20,0,,,,,Engine,0,20,Sunday Race,São Paulo Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,3671C6,Max,Verstappen,Max Verstappen,1,2,,,,0 days 01:29:08.289000,Finished,25,21,Sunday Race,Las Vegas Grand Prix
+16,C LECLERC,LEC,Ferrari,F91536,Charles,Leclerc,Charles Leclerc,2,1,,,,0 days 01:29:10.359000,Finished,18,21,Sunday Race,Las Vegas Grand Prix
+11,S PEREZ,PER,Red Bull Racing,3671C6,Sergio,Perez,Sergio Perez,3,11,,,,0 days 01:29:10.530000,Finished,15,21,Sunday Race,Las Vegas Grand Prix
+31,E OCON,OCO,Alpine,2293D1,Esteban,Ocon,Esteban Ocon,4,16,,,,0 days 01:29:26.954000,Finished,12,21,Sunday Race,Las Vegas Grand Prix
+18,L STROLL,STR,Aston Martin,358C75,Lance,Stroll,Lance Stroll,5,19,,,,0 days 01:29:28.356000,Finished,10,21,Sunday Race,Las Vegas Grand Prix
+55,C SAINZ,SAI,Ferrari,F91536,Carlos,Sainz,Carlos Sainz,6,12,,,,0 days 01:29:29.123000,Finished,8,21,Sunday Race,Las Vegas Grand Prix
+44,L HAMILTON,HAM,Mercedes,6CD3BF,Lewis,Hamilton,Lewis Hamilton,7,10,,,,0 days 01:29:30.044000,Finished,6,21,Sunday Race,Las Vegas Grand Prix
+63,G RUSSELL,RUS,Mercedes,6CD3BF,George,Russell,George Russell,8,3,,,,0 days 01:29:31.380000,Finished,4,21,Sunday Race,Las Vegas Grand Prix
+14,F ALONSO,ALO,Aston Martin,358C75,Fernando,Alonso,Fernando Alonso,9,9,,,,0 days 01:29:34.253000,Finished,2,21,Sunday Race,Las Vegas Grand Prix
+81,O PIASTRI,PIA,McLaren,F58020,Oscar,Piastri,Oscar Piastri,10,18,,,,0 days 01:29:37.785000,Finished,2,21,Sunday Race,Las Vegas Grand Prix
+10,P GASLY,GAS,Alpine,2293D1,Pierre,Gasly,Pierre Gasly,11,4,,,,0 days 01:29:42.559000,Finished,0,21,Sunday Race,Las Vegas Grand Prix
+23,A ALBON,ALB,Williams,37BEDD,Alexander,Albon,Alexander Albon,12,5,,,,0 days 01:29:51.687000,Finished,0,21,Sunday Race,Las Vegas Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,B6BABD,Kevin,Magnussen,Kevin Magnussen,13,8,,,,0 days 01:29:53.114000,Finished,0,21,Sunday Race,Las Vegas Grand Prix
+3,D RICCIARDO,RIC,AlphaTauri,5E8FAA,Daniel,Ricciardo,Daniel Ricciardo,14,14,,,,0 days 01:29:56.814000,Finished,0,21,Sunday Race,Las Vegas Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,C92D4B,Guanyu,Zhou,Guanyu Zhou,15,17,,,,0 days 01:29:58.451000,Finished,0,21,Sunday Race,Las Vegas Grand Prix
+2,L SARGEANT,SAR,Williams,37BEDD,Logan,Sargeant,Logan Sargeant,16,6,,,,0 days 01:29:59.171000,Finished,0,21,Sunday Race,Las Vegas Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,C92D4B,Valtteri,Bottas,Valtteri Bottas,17,7,,,,0 days 01:30:33.639000,Finished,0,21,Sunday Race,Las Vegas Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,5E8FAA,Yuki,Tsunoda,Yuki Tsunoda,18,20,,,,,Gearbox,0,21,Sunday Race,Las Vegas Grand Prix
+27,N HULKENBERG,HUL,Haas F1 Team,B6BABD,Nico,Hulkenberg,Nico Hulkenberg,19,13,,,,,Engine,0,21,Sunday Race,Las Vegas Grand Prix
+4,L NORRIS,NOR,McLaren,F58020,Lando,Norris,Lando Norris,20,15,,,,,Accident,0,21,Sunday Race,Las Vegas Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,3671C6,Max,Verstappen,Max Verstappen,1,1,,,,0 days 01:27:02.624000,Finished,26,22,Sunday Race,Abu Dhabi Grand Prix
+16,C LECLERC,LEC,Ferrari,F91536,Charles,Leclerc,Charles Leclerc,2,2,,,,0 days 01:27:20.617000,Finished,18,22,Sunday Race,Abu Dhabi Grand Prix
+63,G RUSSELL,RUS,Mercedes,6CD3BF,George,Russell,George Russell,3,4,,,,0 days 01:27:22.952000,Finished,15,22,Sunday Race,Abu Dhabi Grand Prix
+11,S PEREZ,PER,Red Bull Racing,3671C6,Sergio,Perez,Sergio Perez,4,9,,,,0 days 01:27:24.077000,Finished,12,22,Sunday Race,Abu Dhabi Grand Prix
+4,L NORRIS,NOR,McLaren,F58020,Lando,Norris,Lando Norris,5,5,,,,0 days 01:27:26.908000,Finished,10,22,Sunday Race,Abu Dhabi Grand Prix
+81,O PIASTRI,PIA,McLaren,F58020,Oscar,Piastri,Oscar Piastri,6,3,,,,0 days 01:27:34.111000,Finished,8,22,Sunday Race,Abu Dhabi Grand Prix
+14,F ALONSO,ALO,Aston Martin,358C75,Fernando,Alonso,Fernando Alonso,7,7,,,,0 days 01:27:42.136000,Finished,6,22,Sunday Race,Abu Dhabi Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,5E8FAA,Yuki,Tsunoda,Yuki Tsunoda,8,6,,,,0 days 01:27:45.712000,Finished,4,22,Sunday Race,Abu Dhabi Grand Prix
+44,L HAMILTON,HAM,Mercedes,6CD3BF,Lewis,Hamilton,Lewis Hamilton,9,11,,,,0 days 01:27:47.048000,Finished,2,22,Sunday Race,Abu Dhabi Grand Prix
+18,L STROLL,STR,Aston Martin,358C75,Lance,Stroll,Lance Stroll,10,13,,,,0 days 01:27:58.256000,Finished,1,22,Sunday Race,Abu Dhabi Grand Prix
+3,D RICCIARDO,RIC,AlphaTauri,5E8FAA,Daniel,Ricciardo,Daniel Ricciardo,11,15,,,,0 days 01:27:58.853000,Finished,0,22,Sunday Race,Abu Dhabi Grand Prix
+31,E OCON,OCO,Alpine,2293D1,Esteban,Ocon,Esteban Ocon,12,12,,,,0 days 01:28:08.997000,Finished,0,22,Sunday Race,Abu Dhabi Grand Prix
+10,P GASLY,GAS,Alpine,2293D1,Pierre,Gasly,Pierre Gasly,13,10,,,,0 days 01:28:12.984000,Finished,0,22,Sunday Race,Abu Dhabi Grand Prix
+23,A ALBON,ALB,Williams,37BEDD,Alexander,Albon,Alexander Albon,14,14,,,,0 days 01:28:15.808000,Finished,0,22,Sunday Race,Abu Dhabi Grand Prix
+27,N HULKENBERG,HUL,Haas F1 Team,B6BABD,Nico,Hulkenberg,Nico Hulkenberg,15,8,,,,0 days 01:28:26.320000,Finished,0,22,Sunday Race,Abu Dhabi Grand Prix
+2,L SARGEANT,SAR,Williams,37BEDD,Logan,Sargeant,Logan Sargeant,16,20,,,,0 days 01:28:30.415000,Finished,0,22,Sunday Race,Abu Dhabi Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,C92D4B,Guanyu,Zhou,Guanyu Zhou,17,19,,,,0 days 01:28:32.046000,Finished,0,22,Sunday Race,Abu Dhabi Grand Prix
+55,C SAINZ,SAI,Ferrari,F91536,Carlos,Sainz,Carlos Sainz,18,16,,,,,Retired,0,22,Sunday Race,Abu Dhabi Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,C92D4B,Valtteri,Bottas,Valtteri Bottas,19,18,,,,,+1 Lap,0,22,Sunday Race,Abu Dhabi Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,B6BABD,Kevin,Magnussen,Kevin Magnussen,20,17,,,,,+1 Lap,0,22,Sunday Race,Abu Dhabi Grand Prix
